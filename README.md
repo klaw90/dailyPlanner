@@ -42,6 +42,7 @@ Work Day Scheduler
 
 
 #Technologies
+<<<<<<< HEAD
 HTML5
 CSS
 Javascript
@@ -49,3 +50,10 @@ jQuery
 Font Awesome
 Bootstrap
 Google Fonts
+=======
+Javascript
+HTML
+CSS
+jQuery
+Bootstrap
+>>>>>>> develop
