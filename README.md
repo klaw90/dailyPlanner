@@ -34,8 +34,7 @@ THEN the saved events persist
 
 
 #Link to Work Day Scheduler
-Work Day Scheduler
-
+https://klaw90.github.io/dailyPlanner/
 
 Screenshot
 ![](images/dailyPlannerSS.png)
