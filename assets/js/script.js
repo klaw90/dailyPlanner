@@ -53,7 +53,7 @@ function colorRow(time) {
 	if (planNow.isBefore(planEntry) === true) {
 		return "future";
 	} else if (planNow.isAfter(planEntry) === true) {
-		return "past"
+		return "past";
 	} else {
 		return "present";
 	}
