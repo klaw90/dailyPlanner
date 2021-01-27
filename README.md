@@ -2,7 +2,7 @@
 GitHub code size in bytes
 
 #Description
-Create a simple calendar application that allows a user to save events for each hour of the workday. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Create a simple calendar application that allows a user to save events for each hour of the workday. 
 
 #Requirements
 User Story
@@ -38,22 +38,13 @@ Work Day Scheduler
 
 
 Screenshot
-Work Day Scheduler
-
+![](images/dailyPlannerSS.png)
 
 #Technologies
-<<<<<<< HEAD
+Javascript
 HTML5
 CSS
-Javascript
-jQuery
-Font Awesome
-Bootstrap
-Google Fonts
-=======
-Javascript
-HTML
-CSS
 jQuery
 Bootstrap
->>>>>>> develop
+
+
