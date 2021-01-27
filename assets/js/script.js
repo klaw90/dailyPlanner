@@ -74,5 +74,6 @@ $(".saveBtn").on("click", function() {
 	);
 	planWorkday[blockID].event = userEntry;
 
-	
+	/* Set local storage */
+	localStorage.setItem("workDay", JSON.stringify(planWorkday));
 });
